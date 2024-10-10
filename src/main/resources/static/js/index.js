@@ -57,7 +57,7 @@
         loginHtml += '<div class="layui-form-item">';
         loginHtml += '<label class="layui-form-label">密码</label>';
         loginHtml += '<div class="layui-input-inline pm-login-input">';
-        loginHtml += '<input type="password" name="password" id="password" lay-verify="passWord" placeholder="请输入密码" value="123" autocomplete="off" class="layui-input">';
+        loginHtml += '<input type="password" name="password" id="password" lay-verify="passWord" placeholder="请输入密码" value="admin" autocomplete="off" class="layui-input">';
         loginHtml += '</div>';
         loginHtml += '</div>';
         loginHtml += '<div class="layui-form-item">';
